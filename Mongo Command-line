@@ -1,0 +1,7 @@
+
+
+C:\Program Files\MongoDB\Server\4.2\bin>mongodump -d kay's_database -o C:\Users\unkwn\Desktop\convert
+
+## output will be:
+# 2020-03-13T10:44:45.538+0800    writing kay's_database.web_data to
+# 2020-03-13T10:44:45.577+0800    done dumping kay's_database.web_data (53 documents)
