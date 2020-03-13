@@ -1,4 +1,5 @@
 
+## for exporting mongo database to filesystem.
 
 C:\Program Files\MongoDB\Server\4.2\bin>mongodump -d kay's_database -o C:\Users\unkwn\Desktop\convert
 
